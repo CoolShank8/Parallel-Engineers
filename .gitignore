@@ -1,11 +1,6 @@
 # Argon
 /sourcemap.json
 
-# Wally
-/Packages
-/ServerPackages
-/DevPackages
-
 # Artifacts
 /*.lock
 /*.rbxl

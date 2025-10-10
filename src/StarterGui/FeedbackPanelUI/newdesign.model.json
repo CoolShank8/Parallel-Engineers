@@ -1,0 +1,17 @@
+{
+  "ClassName": "Part",
+  "Properties": {
+    "Size": [2, 2, 2]
+  },
+
+  "Children": [
+    {
+      "Name": "Input",
+      "ClassName": "ClickDetector"
+    },
+    {
+      "Name": "Send",
+      "ClassName": "RemoteEvent"
+    }
+  ]
+}
