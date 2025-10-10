@@ -4,6 +4,7 @@
     "BottomSurface": "Smooth",
     "Color": [117, 0, 0],
     "Size": [4, 1, 2],
-    "TopSurface": "Smooth"
+    "TopSurface": "Smooth",
+    "Transparency": 0.5
   }
 }
