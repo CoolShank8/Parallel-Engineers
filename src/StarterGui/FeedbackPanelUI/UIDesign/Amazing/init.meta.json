@@ -10,7 +10,7 @@
       "style": "Normal",
       "cachedFaceId": null
     },
-    "Size": [[0.0, 200.0], [0.0, 50.0]],
+    "Size": [[0.0, 200.0], [0.0, 100.0]],
     "Text": "Button2",
     "TextColor3": [0, 0, 0],
     "TextSize": 14
