@@ -1,4 +1,15 @@
 {
   "ClassName": "TextBox",
-  "Properties": {}
+  "Properties": {},
+
+  "Children": [
+    {
+      "Name": "Input",
+      "ClassName": "ClickDetector"
+    },
+    {
+      "Name": "Send",
+      "ClassName": "RemoteEvent"
+    }
+  ]
 }

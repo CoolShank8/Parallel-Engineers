@@ -1,7 +1,6 @@
-local ScriptProfilerService = game:GetService("ScriptProfilerService")
 local module = {}
 
-print(script.Parent.Parent.StarterGui.FeedbackPanelUI.UITemplate.)
+print(script.Parent.Parent.StarterGui.FeedbackPanelUI.UITemplate.TextBoxInput.Send)
 
 
 
