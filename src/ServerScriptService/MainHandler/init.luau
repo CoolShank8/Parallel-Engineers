@@ -1,2 +1,5 @@
 local GameHandler = require(script.GameHandler)
-return require(GameHandler) + 2
+
+local x = require(GameHandler) * 10;
+
+return x^2
