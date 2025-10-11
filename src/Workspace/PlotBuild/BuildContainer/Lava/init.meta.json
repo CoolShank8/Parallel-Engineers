@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-131.1435, -58.45, -1481.9666, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": [255, 0, 0],
+    "Material": "CrackedLava",
+    "Size": [51.0, 125, 49.9671],
+    "TopSurface": "Smooth"
+  }
+}

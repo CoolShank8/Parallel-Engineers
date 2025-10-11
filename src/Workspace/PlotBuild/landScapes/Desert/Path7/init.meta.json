@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [9.373, 4.04, -1061.45, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": [213, 115, 61],
+    "Material": "Sandstone",
+    "Size": [4, 0.5192, 9.0],
+    "TopSurface": "Smooth"
+  }
+}

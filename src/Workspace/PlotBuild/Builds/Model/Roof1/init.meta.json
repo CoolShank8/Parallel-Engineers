@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-64.3447, 43.7804, -1039.45, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": [106, 57, 9],
+    "Material": "ClayRoofTiles",
+    "Size": [47.6291, 1, 41],
+    "TopSurface": "Smooth"
+  }
+}

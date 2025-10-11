@@ -1,0 +1,7 @@
+{
+  "className": "ProximityPrompt",
+  "properties": {
+    "MaxActivationDistance": 10.0321,
+    "Tags": ["ClaimPlot"]
+  }
+}

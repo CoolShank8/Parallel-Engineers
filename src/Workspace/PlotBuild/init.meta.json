@@ -1,0 +1,6 @@
+{
+  "className": "Model",
+  "properties": {
+    "ModelStreamingMode": "Persistent"
+  }
+}

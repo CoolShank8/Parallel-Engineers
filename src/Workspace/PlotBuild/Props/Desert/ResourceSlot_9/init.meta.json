@@ -1,0 +1,11 @@
+{
+  "className": "Attachment",
+  "properties": {
+    "Attributes": {
+      "BarberedWire": false,
+      "Cactus": true,
+      "tumbleweed": true
+    },
+    "CFrame": [49, 125.9997, 220.6583, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+  }
+}

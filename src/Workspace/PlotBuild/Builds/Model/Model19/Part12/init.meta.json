@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-53.127, 23.2804, -1058.45, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": [248, 248, 248],
+    "Material": "Metal",
+    "Size": [21, 1, 1],
+    "TopSurface": "Smooth"
+  }
+}

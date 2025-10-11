@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-53.127, 8.2804, -1058.45, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "Material": "DiamondPlate",
+    "Size": [17, 9, 1],
+    "TopSurface": "Smooth"
+  }
+}
