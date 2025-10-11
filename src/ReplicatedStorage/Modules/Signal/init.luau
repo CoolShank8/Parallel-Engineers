@@ -1,1 +1,0 @@
-print 'signal module loaded'
