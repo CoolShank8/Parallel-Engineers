@@ -9,7 +9,9 @@ while true do
     task.wait(4)
 
     if (#CurrentPlayers >= MinimumAmountOfPlayersNeeded) then
-  		GameModeChoosen:Start()
+		GameModeChoosen:Start()
+		
+		task.wait(20)
     else
         print('Waiting for more players to join...')
     end
