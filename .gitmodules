@@ -1,3 +1,0 @@
-[submodule "src/ReplicatedStorage/Modules/ECSFramework"]
-	path = src/ReplicatedStorage/Modules/ECSFramework
-	url = https://github.com/CoolShank8/Entity-Component-System.git
