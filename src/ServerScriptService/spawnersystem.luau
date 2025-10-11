@@ -4,3 +4,4 @@ end
 
 print('spawner')
 print 'spawner'
+print('wow ')
