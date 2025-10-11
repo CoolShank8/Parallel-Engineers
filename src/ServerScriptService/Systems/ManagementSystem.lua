@@ -15,4 +15,6 @@ do
     print('hello ' .. v.UserId)
 end
 
+print 'hello from management system'
+
 ManagementSystem.Name = 'something else'
