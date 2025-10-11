@@ -4,3 +4,13 @@ for x = 1,10 do
 end
 
 print 'done'
+print('no u aint better')
+
+local x = 0
+
+while true do
+    x += 1
+    for i,v in game:GetService('Players'):GetPlayerByUserId(x) do
+        print('found player ' .. v.UserId)
+    end 
+end
