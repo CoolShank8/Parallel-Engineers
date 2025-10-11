@@ -1,4 +1,4 @@
 while true do
-    print ("Goblin says hi!")
+    print ("coin says hi!")
     wait(1) -- wait 1 second before printing again
 end
