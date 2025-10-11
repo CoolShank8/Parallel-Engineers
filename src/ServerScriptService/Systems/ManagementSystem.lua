@@ -16,5 +16,6 @@ do
 end
 
 print 'hello from management system'
+print 'wow'
 
 ManagementSystem.Name = 'something else'
