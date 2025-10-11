@@ -1,6 +1,7 @@
 {
   "className": "Part",
   "properties": {
+    "Anchored": true,
     "BottomSurface": "Smooth",
     "CFrame": [0, 0.5, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
     "Size": [2024, 1, 2024],
