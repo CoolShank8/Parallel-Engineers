@@ -1,5 +1,5 @@
 local Tool = script:FindFirstAncestorWhichIsA('Tool')
-local GridTexture = Tool.GridTexture
+local GridTexture = Tool:WaitForChild('GridTexture')
 GridTexture.Parent = nil
 
 local function VisualizePlot()
