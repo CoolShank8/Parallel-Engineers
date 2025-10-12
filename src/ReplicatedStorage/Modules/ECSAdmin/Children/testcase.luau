@@ -6,3 +6,5 @@ print "Updating test case"
 print 'new test case'
 
 print 'fixed a bug'
+
+print('conflict case')
