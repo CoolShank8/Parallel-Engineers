@@ -1,0 +1,14 @@
+{
+  "name": "EntityAdmin",
+  "$path": "init.luau",
+
+  "tree": {
+    "$className": "ModuleScript",
+
+    "Children": {
+      "$path": "Children"
+    }
+  }
+
+
+}
