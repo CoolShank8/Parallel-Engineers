@@ -1,5 +1,7 @@
 local MinimumAmountOfPlayersNeeded = 1
 
+
+
 while true do
     local CurrentPlayers = game:GetService('Players'):GetPlayers()
 	local AllGameModes = game.ServerScriptService.GameModes:GetChildren()
