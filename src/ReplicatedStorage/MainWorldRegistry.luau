@@ -1,4 +1,4 @@
-local EntityAdmin = require(game.ReplicatedStorage.Modules.EntityAdmin)
+local EntityAdmin = require(game.ReplicatedStorage.Packages.EntityAdmin)
 local PlayerClass = require(game.ReplicatedStorage.GameClasses.Player)
 
 local World = EntityAdmin:CreateWorld("GameWorld")

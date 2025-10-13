@@ -1,7 +1,7 @@
 --!strict
 
 local PlayerClass = {}
-local EntityAdmin = require(game.ReplicatedStorage.Modules.EntityAdmin)
+local EntityAdmin = require(game.ReplicatedStorage.Packages.EntityAdmin)
 
 export type Player = {
     Cash: number,
