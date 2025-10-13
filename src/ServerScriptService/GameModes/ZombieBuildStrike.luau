@@ -1,6 +1,6 @@
 local GameMode = {}
 local PlotSystem = require(game.ReplicatedStorage.GameSystems.PlotSystem)
-local EntityAdmin = require(game.ReplicatedStorage.Modules.EntityAdmin)
+local EntityAdmin = require(game.ReplicatedStorage.Packages.EntityAdmin)
 
 
 function GameMode:Start()
