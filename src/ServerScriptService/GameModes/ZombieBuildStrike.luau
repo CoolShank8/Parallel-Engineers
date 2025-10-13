@@ -1,5 +1,5 @@
 local GameMode = {}
-local PlotService = require(game.ServerScriptService.Services.PlotService)
+local PlotSystem = require(game.ReplicatedStorage.GameSystems.PlotSystem)
 local EntityAdmin = require(game.ReplicatedStorage.Modules.EntityAdmin)
 
 
