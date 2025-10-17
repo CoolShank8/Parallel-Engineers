@@ -23,14 +23,6 @@
     },
     "StarterPack": {
       "$path": "src/StarterPack"
-    },
-    "StarterPlayer": {
-      "StarterCharacterScripts": {
-        "$path": "src/StarterPlayer/StarterCharacterScripts"
-      },
-      "StarterPlayerScripts": {
-        "$path": "src/StarterPlayer/StarterPlayerScripts"
-      }
     }
   }
 }
