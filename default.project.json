@@ -1,5 +1,7 @@
 {
   "name": "Parallel Engineers Fixed",
+  "legacyScripts": false,
+
   "tree": {
     "$className": "DataModel",
 
