@@ -1,0 +1,10 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "BackgroundColor3": [1, 1, 1],
+    "BorderSizePixel": 0,
+    "HorizontalScrollBarInset": "ScrollBar",
+    "ScrollBarImageColor3": [0, 0, 0],
+    "Size": [[1.0, 0.0], [1.0, 0.0]]
+  }
+}

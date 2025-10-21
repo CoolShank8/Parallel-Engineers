@@ -1,0 +1,17 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/BuilderSans.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "LayoutOrder": 1,
+    "Size": [[0.9656, 0.0], [-0.4473, 0.0]],
+    "Text": "Title",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

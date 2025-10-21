@@ -1,0 +1,20 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "Attributes": {
+      "Open": false,
+      "CanTween": false,
+      "OutTweenStyle": "",
+      "TweenDurationOut": 0,
+      "TweenDurationIn": 0,
+      "OutTweenDirection": "",
+      "InTweenStyle": "",
+      "InTweenDirection": ""
+    },
+    "BorderSizePixel": 0,
+    "ImageContent": "nil",
+    "Selectable": false,
+    "Size": [[1.0, 0.0], [1.294, 0.0]],
+    "Tags": ["DropdownUnv"]
+  }
+}

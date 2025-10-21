@@ -1,0 +1,11 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "Size": [[0.7775, 0.0], [1.0, 0.0]],
+    "Tags": ["LabelSecondary"],
+    "Text": "defould",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

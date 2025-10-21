@@ -1,0 +1,23 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "Active": false,
+    "Attributes": {
+      "TweenDurationIn": 0,
+      "InTweenStyle": "",
+      "CanTween": false,
+      "OutTweenDirection": "",
+      "InTweenDirection": "",
+      "OutTweenStyle": "",
+      "TweenDurationOut": 0
+    },
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0,
+    "ImageContent": "rbxassetid://16167593004",
+    "ImageRectOffset": [688, 0],
+    "ImageRectSize": [108, 108],
+    "Selectable": false,
+    "Size": [[1.0, 0.0], [1.0, 0.0]],
+    "Tags": ["iconPrimary"]
+  }
+}

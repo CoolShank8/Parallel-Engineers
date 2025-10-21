@@ -1,0 +1,9 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BorderSizePixel": 0,
+    "LayoutOrder": 2,
+    "Size": [[0.9656, 0.0], [0.1261, 0.0]],
+    "Tags": ["Dropdown"]
+  }
+}

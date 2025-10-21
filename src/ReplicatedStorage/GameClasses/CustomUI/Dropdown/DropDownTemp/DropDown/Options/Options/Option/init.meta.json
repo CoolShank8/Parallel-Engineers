@@ -1,0 +1,11 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Position": [[-0.008, 0.0], [0.0, 0.0]],
+    "Size": [[1.016, 0.0], [0.3414, 0.0]],
+    "Tags": ["CtaBackground"],
+    "Text": "option",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}
