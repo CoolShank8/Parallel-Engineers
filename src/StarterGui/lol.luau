@@ -1,0 +1,2 @@
+print "lol"
+warn "bye"
