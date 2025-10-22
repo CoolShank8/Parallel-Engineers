@@ -2,6 +2,7 @@
   "className": "Frame",
   "properties": {
     "BackgroundTransparency": 1,
-    "Size": [[1.0, 0.0], [0.0, 11.0]]
+    "LayoutOrder": 9999999,
+    "Size": [[1.0, 0.0], [0.3, 0.0]]
   }
 }

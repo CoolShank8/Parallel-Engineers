@@ -6,6 +6,7 @@
     "Tags": ["CtaBackground"],
     "Text": "option",
     "TextScaled": true,
-    "TextWrapped": true
+    "TextWrapped": true,
+    "Visible": false
   }
 }

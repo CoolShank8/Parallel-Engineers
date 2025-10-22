@@ -4,6 +4,7 @@
     "BackgroundColor3": [1, 1, 1],
     "BackgroundTransparency": 1,
     "BorderSizePixel": 0,
+    "LayoutOrder": 2,
     "Position": [[0.7793, 0.0], [0.0, 0.0]],
     "Size": [[0.2207, 0.0], [1.061, 0.0]]
   }
