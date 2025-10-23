@@ -1,0 +1,9 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BorderSizePixel": 0,
+    "LayoutOrder": 3,
+    "Position": [[0.7028, 0.0], [0.0561, 0.0]],
+    "Size": [[0.2972, 0.0], [0.8879, 0.0]]
+  }
+}

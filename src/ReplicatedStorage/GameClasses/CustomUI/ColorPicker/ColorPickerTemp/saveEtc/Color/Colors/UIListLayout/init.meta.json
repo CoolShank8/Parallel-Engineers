@@ -1,0 +1,9 @@
+{
+  "className": "UIListLayout",
+  "properties": {
+    "FillDirection": "Horizontal",
+    "HorizontalFlex": "Fill",
+    "Padding": [0, 1],
+    "VerticalFlex": "Fill"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundColor3": [0.9176, 0.9176, 0.9176],
+    "BackgroundTransparency": 1,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/BuilderSans.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Size": [[1.0, 0.0], [0.9159, 0.0]],
+    "Text": "Aa",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

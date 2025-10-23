@@ -1,0 +1,6 @@
+{
+  "className": "UIAspectRatioConstraint",
+  "properties": {
+    "AspectRatio": 2
+  }
+}

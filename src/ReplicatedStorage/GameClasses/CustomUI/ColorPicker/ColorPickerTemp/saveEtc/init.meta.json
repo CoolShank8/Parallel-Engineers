@@ -1,0 +1,9 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BorderSizePixel": 0,
+    "ClipsDescendants": true,
+    "Position": [[0.0138, 0.0], [0.7476, 0.0]],
+    "Size": [[0.9654, 0.0], [0.0, 60.0]]
+  }
+}

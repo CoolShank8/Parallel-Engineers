@@ -4,7 +4,8 @@
     "BackgroundColor3": [1, 1, 1],
     "BorderSizePixel": 0,
     "HorizontalScrollBarInset": "ScrollBar",
+    "Position": [[0.0, 0.0], [0.1855, 0.0]],
     "ScrollBarImageColor3": [0, 0, 0],
-    "Size": [[1.0, 0.0], [1.0, 0.0]]
+    "Size": [[1.0, 0.0], [0.8145, 0.0]]
   }
 }

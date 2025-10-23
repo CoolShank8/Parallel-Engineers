@@ -2,8 +2,9 @@
   "className": "Frame",
   "properties": {
     "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
     "BorderSizePixel": 0,
-    "Position": [[0.2838, 0.0], [0.1443, 0.0]],
-    "Size": [[0.4313, 0.0], [0.7107, 0.0]]
+    "Size": [[1.0, 0.0], [1.0, 0.0]],
+    "Visible": false
   }
 }

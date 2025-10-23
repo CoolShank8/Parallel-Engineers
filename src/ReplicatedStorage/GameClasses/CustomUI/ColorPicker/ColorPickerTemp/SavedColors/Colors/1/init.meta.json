@@ -1,0 +1,11 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "Active": false,
+    "BackgroundColor3": [1, 1, 1],
+    "BorderSizePixel": 0,
+    "ImageContent": "nil",
+    "Selectable": false,
+    "Size": [[0.1781, 0.0], [0.7948, 0.0]]
+  }
+}

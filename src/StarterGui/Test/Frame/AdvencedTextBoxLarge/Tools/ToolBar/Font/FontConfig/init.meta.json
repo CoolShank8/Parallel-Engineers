@@ -1,0 +1,11 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "BorderSizePixel": 0,
+    "ImageContent": "rbxassetid://16301046224",
+    "LayoutOrder": 4,
+    "Modal": true,
+    "Position": [[0.2384, 0.0], [0.0584, 0.0]],
+    "Size": [[0.2393, 0.0], [0.7347, 0.0]]
+  }
+}

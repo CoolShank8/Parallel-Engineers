@@ -1,0 +1,13 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "AutomaticCanvasSize": "Y",
+    "BackgroundColor3": [0.1961, 0.3529, 0.9294],
+    "BorderSizePixel": 0,
+    "CanvasSize": [[0.0, 0.0], [0.0, 0.0]],
+    "HorizontalScrollBarInset": "ScrollBar",
+    "ScrollBarImageColor3": [0, 0, 0],
+    "ScrollBarThickness": 0,
+    "Size": [[1.0, 0.0], [1.0, 0.0]]
+  }
+}

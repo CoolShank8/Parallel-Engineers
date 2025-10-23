@@ -1,0 +1,11 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "Position": [[0.0, 0.0], [0.1246, 0.0]],
+    "Size": [[0.5503, 0.0], [0.0, 40.0]],
+    "Text": "Result:",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

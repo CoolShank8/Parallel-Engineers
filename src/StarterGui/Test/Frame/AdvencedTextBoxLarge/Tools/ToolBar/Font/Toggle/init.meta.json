@@ -1,0 +1,11 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "BackgroundColor3": [0.9529, 0.9529, 0.9529],
+    "BorderSizePixel": 0,
+    "ImageContent": "nil",
+    "LayoutOrder": 1,
+    "Position": [[0.0, 0.0], [-0.1886, 0.0]],
+    "Size": [[0.4137, 0.0], [0.8833, 0.0]]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "className": "TextBox",
+  "properties": {
+    "ClearTextOnFocus": false,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/BuilderSans.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "PlaceholderText": "fill in text",
+    "Position": [[0.3446, 0.0], [0.1032, 0.0]],
+    "Size": [[0.6048, 0.0], [0.7935, 0.0]],
+    "Text": "",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}
