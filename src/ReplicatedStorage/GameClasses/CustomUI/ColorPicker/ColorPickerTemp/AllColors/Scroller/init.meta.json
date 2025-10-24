@@ -3,6 +3,7 @@
   "properties": {
     "AutomaticCanvasSize": "Y",
     "BackgroundColor3": [0.1961, 0.3529, 0.9294],
+    "BackgroundTransparency": 1,
     "BorderSizePixel": 0,
     "CanvasSize": [[0.0, 0.0], [0.0, 0.0]],
     "HorizontalScrollBarInset": "ScrollBar",

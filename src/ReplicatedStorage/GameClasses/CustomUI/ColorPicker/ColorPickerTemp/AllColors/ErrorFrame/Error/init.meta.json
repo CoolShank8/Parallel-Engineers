@@ -1,0 +1,11 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "Position": [[0.0878, 0.0], [0.1477, 0.0]],
+    "Size": [[0.8216, 0.0], [0.4576, 40.0]],
+    "Text": "Failed to generate custom color palate make sure it is corectly setup",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

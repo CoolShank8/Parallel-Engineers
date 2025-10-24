@@ -3,6 +3,7 @@
   "properties": {
     "BackgroundColor3": [0.9529, 0.9529, 0.9529],
     "BorderSizePixel": 0,
+    "LayoutOrder": 2,
     "Position": [[0.5, 0.0], [0.5, 0.0]],
     "Size": [[0.1, 0.0], [0.1, 0.0]]
   }

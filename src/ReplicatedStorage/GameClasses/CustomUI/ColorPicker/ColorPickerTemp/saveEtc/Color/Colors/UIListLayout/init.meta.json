@@ -4,6 +4,7 @@
     "FillDirection": "Horizontal",
     "HorizontalFlex": "Fill",
     "Padding": [0, 1],
+    "SortOrder": "LayoutOrder",
     "VerticalFlex": "Fill"
   }
 }
