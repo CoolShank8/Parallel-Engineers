@@ -2,6 +2,7 @@
   "className": "TextLabel",
   "properties": {
     "BackgroundTransparency": 1,
+    "LayoutOrder": 1,
     "Position": [[-0.0673, 0.0], [-0.0204, 0.0]],
     "Size": [[0.3362, 0.0], [0.0, 40.0]],
     "Text": "#",

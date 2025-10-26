@@ -7,10 +7,12 @@ local newColorPicker = ColorPickerClass.new({
         Config = {}, -- is this needed?
         Values = {
             Color3.new(0,0,0),
-            Color3.fromHex("#06c46f")
+            Color3.fromHex("#06c46f"),
+            Color3.fromRGB(123,123,123)
         }
     },
-    ColorCodesEnabled = true
+    ColorCodesEnabled = true,
+    SavingEnabled = true -- will save colors so soon as the feature is enabled automaticaly wothout doing anything
 })
 
 newColorPicker:Mounth(script.Parent)

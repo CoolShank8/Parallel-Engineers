@@ -102,12 +102,45 @@ function ColorPicker:Mounth(parent)
 	-- change listeners for color code boxes to chage color
 	local hexBox = newUITyped.saveEtc.ColorCode.Code.Hex.TextBox
 	hexBox.FocusLost:Connect(function(didUserPressEnter: boolean, lostInputObj: InputObject)  
-		
-		local stringWithoutHashTag = hexBox:Split("#")
 
-		hexBox.Text = stringWithoutHashTag[1]
+		local stringWithoutHashTag = hexBox.Text:split("#") or {"", hexBox.Text}
+
+		if stringWithoutHashTag[2] == nil then
+			stringWithoutHashTag[2] = hexBox.Text
+		end
+
+		warn(stringWithoutHashTag)
+		warn(hexBox.Text:split("#"))
 
 		--TODO: chesk amounth chars if all numbers if all numbers apply above else warn error and clear textbox and also not cahnge the color
+
+		local length = stringWithoutHashTag[2]:len()
+
+		local function txtBoxFallbackDefould()
+			local changeColor:Color3 = newUITyped:GetAttribute("ChangingColor")
+
+			hexBox.Text = changeColor:ToHex()
+		end
+
+		if length > 6 or length < 6 then
+			warn("error text to long this should fallback the textbox to curent selected color valeu")
+
+			txtBoxFallbackDefould()
+		else
+			local suc, color3 = pcall(function()
+				return Color3.fromHex("#"..stringWithoutHashTag[2])
+			end)
+
+			if suc then
+				hexBox.Text = stringWithoutHashTag[2]
+				-- change the color
+				self:ChangeColor(color3)
+			else
+				warn("frong valeu should fill in curent selected color in tesxt box")
+			
+				txtBoxFallbackDefould()
+			end
+		end
 	end)
 
 	---
