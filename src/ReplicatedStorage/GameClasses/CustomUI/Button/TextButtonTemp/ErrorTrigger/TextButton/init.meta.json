@@ -1,0 +1,9 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Size": [[1.0, 0.0], [1.0, 0.0]],
+    "Text": "Click Me",
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

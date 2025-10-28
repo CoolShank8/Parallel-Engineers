@@ -16,3 +16,7 @@ local newColorPicker = ColorPickerClass.new({
 })
 
 newColorPicker:Mounth(script.Parent)
+
+script.Parent.FontOptions.TextColor.ColorPickerOpen.MouseButton1Click:Connect(function()
+    newColorPicker:Open()
+end)

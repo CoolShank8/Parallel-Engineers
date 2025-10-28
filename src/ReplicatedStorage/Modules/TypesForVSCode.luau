@@ -106,5 +106,11 @@ export type CustomUI_ColorPicker = Frame & {
     savedTitle: TextLabel,
 }
 
+export type CustomUI_TextButton = Frame & {
+    ErrorTrigger: TextButton & {
+        TextButton: TextButton,
+    },
+}
+
 local types = {}
 return types

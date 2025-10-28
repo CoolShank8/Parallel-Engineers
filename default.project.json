@@ -1,6 +1,9 @@
 {
   "name": "Parallel Engineers Fixed",
   "legacyScripts": false,
+  "ignore": [
+    "**/*.md"
+  ],
 
   "tree": {
     "$className": "DataModel",

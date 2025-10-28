@@ -1,0 +1,17 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/BuilderSans.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Size": [[1.0, 0.0], [1.0, 0.0]],
+    "Text": "",
+    "TextColor3": [1, 1, 1],
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

@@ -2,7 +2,7 @@ local RequestRemote = game.ReplicatedStorage.Remotes.RequestRemote
 
 local TM = require(game.ReplicatedStorage.Packages.FirstParty.tweenModule)
 
-local ButtonClass;
+local ButtonClass = require(game.ReplicatedStorage.GameClasses.CustomUI.Button)
 
 local ColorPickerTag = "ColorPicker_Unv"
 
@@ -101,6 +101,7 @@ function ColorPicker:Mounth(parent)
 
 	-- change listeners for color code boxes to chage color
 	local hexBox = newUITyped.saveEtc.ColorCode.Code.Hex.TextBox
+	hexBox.Text = self.DefouldChangeColor:ToHex()
 	hexBox.FocusLost:Connect(function(didUserPressEnter: boolean, lostInputObj: InputObject)  
 
 		local stringWithoutHashTag = hexBox.Text:split("#") or {"", hexBox.Text}
@@ -155,6 +156,7 @@ function ColorPicker:Mounth(parent)
 	if ColorPicker._Info[self._ID] then
         warn("Failed to mounth ColorPicker, such ColorPicker with the same config already exist")
     else
+		newUI.Visible = false
         newUI.Parent = parent
 		self.Instance = newUI
         ColorPicker._Info[self._ID] = {}
@@ -162,6 +164,12 @@ function ColorPicker:Mounth(parent)
         info.Object = self
     end
 
+end
+
+function ColorPicker:Open()
+	local ins:Object = self.Instance
+
+	ins.Visible = true
 end
 
 function ColorPicker:ChangeColor(newColor) -- doesnt save the color yet just shows it visual

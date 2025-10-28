@@ -1,0 +1,56 @@
+# Table of Contents
+
+- [Dropdown](#dropdown)
+  - [Dropdown Name](#dropdown-name)
+  - [Dropdown Title](#dropdown-title)
+  - [Dropdown Options](#dropdown-options)
+    - [Option Name](#option-name)
+    - [Option Default](#option-default)
+
+# **Custom UI Classes**
+
+We can use these to reuse certain UI elements and also script behavior like validating a form object (e.g., TextBox) using OOP-style syntax.
+
+I'm not yet sure how to handle server-side validation of UI elements, but one idea is:
+
+- Create the OOP instance on the server
+- Mount it on the client
+- Communicate using RemoteEvents or RemoteFunctions
+
+## Dropdown 
+
+You can create a dropdown easily:
+
+```lua
+local newDropdown1 = DropDownClass.new({
+
+})
+```
+
+### Dropdown Name
+
+Give it a `Name` property. This is used to name the head parent of the instance that gets cloned.
+
+### Dropdown Title
+
+Give it a `Title` property. This will show on the title label.
+
+### Dropdown Options
+
+To make the dropdown selectable, we need to create options:
+
+```lua
+Options = { -- array
+    [1] = { -- start with 1 and don't skip numbers
+        
+    },
+}
+```
+
+#### Option Name
+
+Give each option a ``Name`` property. This names the option instance.
+
+#### Option Default
+
+Give one option the ``Default`` property. Only one option should be `true`, otherwise it may produce unexpected behavior.
