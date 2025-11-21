@@ -1,3 +1,3 @@
-[submodule "src/ReplicatedStorage/Packages/EntityAdmin"]
-	path = src/ReplicatedStorage/Packages/EntityAdmin
+[submodule "src/Shared/Packages/EntityAdmin"]
+	path = src/Shared/Packages/EntityAdmin
 	url = https://github.com/CoolShank8/Entity-Component-System.git
