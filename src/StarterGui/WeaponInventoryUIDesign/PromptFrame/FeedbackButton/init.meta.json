@@ -1,0 +1,12 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "BackgroundColor3": [0.2, 0.6, 1],
+    "Position": [[0.0, 0.0], [0.8, 0.0]],
+    "Size": [[1.0, 0.0], [0.2, 0.0]],
+    "Text": "Open",
+    "TextColor3": [1, 1, 1],
+    "TextScaled": true,
+    "TextWrapped": true
+  }
+}

@@ -12,10 +12,10 @@
       "$path": "src/ReplicatedFirst"
     },
     "ReplicatedStorage": {
-      "$path": "src/ReplicatedStorage"
+      "$path": "src/Shared"
     },
     "ServerScriptService": {
-      "$path": "src/ServerScriptService"
+      "$path": "src/Server"
     },
     "ServerStorage": {
       "$path": "src/ServerStorage"
@@ -25,6 +25,12 @@
     },
     "StarterPack": {
       "$path": "src/StarterPack"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/Client"
+      }
     }
   }
 }
