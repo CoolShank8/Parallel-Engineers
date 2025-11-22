@@ -2,11 +2,13 @@ local UI = script.Parent
 local TextureSheet = extract("TextureSheet.psd")
 
 return {
-    [UI.PromptFrame.PromptImage] = {
-        Image = TextureSheet.layer("BG").upload(1000, 1000)
+    publish_images = true,
+    
+    [UI.UIFrame.BG] = {
+        Image = TextureSheet.layer("UI/BG").upload(634, 761)
     },
 
-    [UI.PromptFrame.Title] = {
-        Image = TextureSheet.layer("GunSelectionPanel").upload(1000, 1000)
+    [UI.UIFrame.WeaponPanel] = {
+        Image = TextureSheet.layer("UI/GunSelectionPanel").upload(1000, 1000)
     }
 }
