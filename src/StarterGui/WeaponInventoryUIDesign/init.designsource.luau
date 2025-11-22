@@ -14,5 +14,9 @@ return {
 
     [UI.UIFrame.WeaponPanel.Slot1] = {
         Image = TextureSheet.layer("UI/PanelSlots/Slot1").upload(300, 300)
+    },
+
+     [UI.UIFrame.WeaponPanel.Slot2] = {
+        Image = TextureSheet.layer("UI/PanelSlots/Slot1").upload(300, 300)
     }
 }

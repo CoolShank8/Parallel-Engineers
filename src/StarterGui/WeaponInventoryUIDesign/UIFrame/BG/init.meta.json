@@ -1,7 +1,6 @@
 {
   "className": "ImageLabel",
   "properties": {
-    "Image": "rbxassetid://76476965987499",
     "BackgroundTransparency": 1,
     "ImageContent": "rbxassetid://76476965987499",
     "ScaleType": "Fit",
