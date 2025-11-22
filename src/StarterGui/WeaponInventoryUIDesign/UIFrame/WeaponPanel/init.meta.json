@@ -1,12 +1,13 @@
 {
   "className": "ImageLabel",
   "properties": {
+    "Image": "rbxassetid://135717898474220",
     "AnchorPoint": [0.5, 0],
     "BackgroundTransparency": 1,
-    "ImageContent": "rbxassetid://78702203764533",
+    "ImageContent": "rbxassetid://135717898474220",
     "Position": [[0.5, 0.0], [0.522, 0.0]],
     "ScaleType": "Tile",
-    "Size": [[0.506, 0.0], [0.3291, 0.0]],
+    "Size": [[0.6, 0.0], [0.329, 0.0]],
     "SliceCenter": [417, 417, 603, 510],
     "ZIndex": 2
   }
