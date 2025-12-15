@@ -10,3 +10,7 @@
 
 # Misc
 .DS_Store
+
+# vs code stuff
+
+.vscode
